@@ -1,3 +1,6 @@
 .DS_Store
 .vscode
+.ipynb_checkpoints/
+
+#ignoring the heavy data folder
 data
